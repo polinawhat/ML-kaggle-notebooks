@@ -1,4 +1,4 @@
-# HSE University — Machine Learning & Applied Data Analysis Portfolio
+# Machine Learning 
 
 Welcome! This repository contains a collection of end-to-end machine learning and data analysis projects developed during my studies at the Faculty of Computer Science, HSE University (National Research University Higher School of Economics). 
 
